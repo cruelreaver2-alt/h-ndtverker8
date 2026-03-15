@@ -1,0 +1,66 @@
+──────────────────────────────────────────
+[DITT NAVN]
+Gründer & CEO
+
+🔨 Håndtverkeren
+Norges nye plattform for fagfolk
+
+📧 kundeservice@handtverkeren.no
+📱 +47 XXX XX XXX
+🌐 fagfolk6.vercel.app
+
+🚀 Vi søker 20 testpilot-leverandører
+   → fagfolk6.vercel.app/pilot
+──────────────────────────────────────────
+
+
+FORMATERING I OUTLOOK:
+──────────────────────────────────────────
+
+1. Linje 2 ([DITT NAVN]):
+   - Fet (Bold)
+   - Størrelse: 14
+   - Farge: #111827 (mørk)
+
+2. Linje 3 (Gründer & CEO):
+   - Normal
+   - Størrelse: 11
+   - Farge: #6B7280 (grå)
+
+3. Linje 5 (🔨 Håndtverkeren):
+   - Fet (Bold)
+   - Størrelse: 13
+   - Farge: #17384E (mørkeblå)
+
+4. Linje 6 (Norges nye...):
+   - Kursiv (Italic)
+   - Størrelse: 10
+   - Farge: #9CA3AF (lys grå)
+
+5. Linje 8-11 (Kontaktinfo):
+   - Normal
+   - Størrelse: 11
+   - Farge: #374151 (mørk grå)
+   - Lenk farge: #E07B3E (brun/oransje)
+
+6. Linje 13-14 (Testpilot-banner):
+   - Fet (Bold)
+   - Størrelse: 10
+   - Farge: #E07B3E (brun/oransje)
+   - Lenk: #E07B3E
+
+──────────────────────────────────────────
+
+ENKLERE VERSJON (hvis du vil ha det mer minimalistisk):
+──────────────────────────────────────────
+
+Med vennlig hilsen,
+
+[DITT NAVN]
+Gründer, Håndtverkeren
+
+📧 kundeservice@handtverkeren.no
+📱 +47 XXX XX XXX
+🌐 fagfolk6.vercel.app
+
+──────────────────────────────────────────
